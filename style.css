@@ -1,0 +1,19 @@
+body {
+    height: 1080px;
+    background-color: blue;
+}
+.search {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    position: relative;
+    margin-top: 300px;
+}
+img {
+    width: 21px;
+    height: 21px;
+    position: absolute;
+    margin-left: 150px;
+    border: 0px;
+}
